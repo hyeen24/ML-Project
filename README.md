@@ -7,6 +7,16 @@ A comprehensive machine learning project that includes data preprocessing, model
 - IDE (VS code)
 - Python notebook
 
+## Data
+- ```gender``` : sex of students  -> (Male/female)
+- ```race/ethnicity``` : ethnicity of students -> (Group A, B,C, D,E)
+- ```parental level of education``` : parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)
+- ```lunch``` : having lunch before test (standard or free/reduced) 
+- ```test preparation course``` : complete or not complete before test
+- ```math score```
+- ```reading score```
+- ```writing score```
+
 ## Installation
 1. Clone the repository:
   ```bash
