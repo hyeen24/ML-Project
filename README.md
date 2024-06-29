@@ -32,7 +32,7 @@ A comprehensive machine learning project that includes data preprocessing, model
    ```
 
 ## Notebook
-[Exploratory Data Analysis Notebook](https://github.com/hyeen24/ML-Project/blob/main/notebook/1%20.%20EDA%20STUDENT%20PERFORMANCE%20.ipynb)
-[Model Training Notebook](https://github.com/hyeen24/ML-Project/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
+- [Exploratory Data Analysis Notebook](https://github.com/hyeen24/ML-Project/blob/main/notebook/1%20.%20EDA%20STUDENT%20PERFORMANCE%20.ipynb)
+- [Model Training Notebook](https://github.com/hyeen24/ML-Project/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
 
 
